@@ -1,0 +1,41 @@
+_repo: Digging-for-Gold-A-Story-of-California_53095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Jr., Horatio Alger
+    - Starr, Julian
+    - Putnam, Arthur Lee
+    - Alger, Horatio
+    - Preston, Charles F.
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2016-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farmers -- Juvenile fiction'
+- !lcsh 'California -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Poor -- Juvenile fiction'
+- !lcsh 'Gold mines and mining -- Juvenile fiction'
+- !lcsh 'Business enterprises -- Juvenile fiction'
+- !lcsh 'Miners -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- GITenberg
+title: 'Digging for Gold: A Story of California'
+url: http://www.gutenberg.org/ebooks/53095
